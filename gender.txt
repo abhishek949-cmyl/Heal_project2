@@ -4,9 +4,12 @@ gender: female
 name:laurie
 name:akash
 gender:female
+name:rocky
 name:rookie
 .............
 name:remote34
 name:sachin
 name:sachinfromlocal
 name:abhiremote
+name:local
+name:remote
