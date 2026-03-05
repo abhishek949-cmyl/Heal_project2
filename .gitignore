@@ -1,3 +1,5 @@
 *.py
 *.dll
 *.nil
+*.xml
+*.iml
