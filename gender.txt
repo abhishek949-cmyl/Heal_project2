@@ -6,3 +6,4 @@ name:akash
 gender:female
 name:rookie
 .............
+name:remote
