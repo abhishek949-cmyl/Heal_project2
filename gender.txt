@@ -6,3 +6,4 @@ name:akash
 gender:female
 name:rocky
 name:rookie
+name:local
