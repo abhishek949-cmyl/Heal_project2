@@ -7,3 +7,4 @@ gender:female
 name:rocky
 name:rookie
 name:local
+name:remote
